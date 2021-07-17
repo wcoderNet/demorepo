@@ -9,4 +9,6 @@ $rex = 'dev user';
 
 $dev = 555;
 
+$WPQ2 = 'dev_xxx';
+
 ?>
